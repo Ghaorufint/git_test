@@ -1,0 +1,1 @@
+This is Wesley Hwang's first git project!"
